@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://cdn.mobilesyrup.com/wp-content/uploads/2020/02/fortnite-rickroll-emote.gif);
+    background-size: cover;
+}   
+
+h1{
+    background-color: lawngreen;
+
+}
+
+div{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    width: 10px;
+    height: 10px;
+    background-color: yellow;
+    padding: 20px;
+    border: crimson 20px;
+}
